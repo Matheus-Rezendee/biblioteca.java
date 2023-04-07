@@ -16,11 +16,11 @@ public class biblioteca {
 
 
         System.out.println("                                                                                                                             ");
-        System.out.println("                                                                ⌈▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔⌉                       ");
-        System.out.println("                                                                │                                    │                       ");
-        System.out.println("                                                                │       BEM-VINDO À BIBLIOTECA!      │                       ");
-        System.out.println("                                                                │                                    │                       ");
-        System.out.println("                                                                ⌊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⌋                       ");
+        System.out.println("                                                                ⌈▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔⌉                       ");
+        System.out.println("                                                                │                                                                          │                       ");
+        System.out.println("                                                                │                         BEM-VINDO À BIBLIOTECA!                          │                       ");
+        System.out.println("                                                                │                                                                          │                       ");
+        System.out.println("                                                                ⌊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⌋                       ");
         System.out.println("                                                                                                                             ");
         System.out.println("                                                                                                                             ");
         menu();
@@ -177,12 +177,12 @@ public class biblioteca {
             System.out.println(" 《 não há livros cadastrados 》 ");
         } else {
             do {
-                System.out.println("   ⌈▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔⌉ ");
-                System.out.println("《 │ 1 - Consultar por nome do livro      │ 》");
-                System.out.println("《 │ 2 - consultar por autor              │ 》");
-                System.out.println("《 │ 3 - consultar por área de interesse  │ 》");
-                System.out.println("《 │ 9 - menu anterior                    │ 》");
-                System.out.println("   ⌊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⌋");
+                System.out.println("   ⌈▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔⌉ ");
+                System.out.println("《 │ 1 - Consultar por nome do livro                                  │ 》");
+                System.out.println("《 │ 2 - consultar por autor                                          │ 》");
+                System.out.println("《 │ 3 - consultar por área de interesse                              │ 》");
+                System.out.println("《 │ 9 - menu anterior                                                │ 》");
+                System.out.println("   ⌊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⌋");
                 System.out.println("                                          ");
 
                 String escolha = scan.next();
